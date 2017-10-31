@@ -11,12 +11,12 @@ author :
   twitter : nil
   feedburner : nil
 
-production_url : https://benjaminhmtan.github.io/homepage
+production_url : https://benjaminhmtan.github.io
 
 JB :
   version : 0.3.0
 
-  BASE_PATH : https://benjaminhmtan.github.io/homepage
+  BASE_PATH : https://benjaminhmtan.github.io
 
   # ASSET_PATH: 
 
