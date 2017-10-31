@@ -1,7 +1,7 @@
 permalink: /:categories/:year/:month/:day/:title
 
 theme: jekyll-theme-dinky
-exclude: ["README.md", "Rakefile" "LICENSE.md"]
+exclude: ["README.md"] #, "Rakefile" "LICENSE.md"]
 
 title : My Homepage
 author :
