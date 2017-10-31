@@ -11,12 +11,14 @@ author :
   twitter : nil
   feedburner : nil
 
-production_url : https://benjaminhmtan.github.io
+# production_url : https://benjaminhmtan.github.io
+
+markdown: kramdown
 
 JB :
   version : 0.3.0
 
-  BASE_PATH : https://benjaminhmtan.github.io
+  # BASE_PATH : https://benjaminhmtan.github.io
 
   # ASSET_PATH: 
 
