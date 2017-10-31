@@ -1,10 +1,13 @@
 ---
 layout: default
-title: Homepage of Benjamin H.M. Tan ![MyPic](assets/mypic.jpg)
+title: Homepage of Benjamin H.M. Tan 
 tagline: Information about me.
 description: Work in Progress!
+published: false
 ---
 
 # [](#header-1)Header 1
+
+![MyPic](/assets/mypic.jpg)
 
 Hello, this is a test webpage. Check back next time!
