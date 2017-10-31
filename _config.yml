@@ -1,3 +1,36 @@
+permalink: /:categories/:year/:month/:day/:title
+
 theme: jekyll-theme-dinky
-title: Homepage of Benjamin H.M. Tan
-description: Work in progress!
+exclude: ["README.md", "Rakefile" "LICENSE.md"]
+
+title : My Homepage
+author :
+  name : Benjamin H.M. Tan 
+  email : benjaminhmtan@gmail.com
+  github : benjaminhmtan
+  twitter : nil
+  feedburner : nil
+
+production_url : https://benjaminhmtan.github.io/homepage
+
+JB :
+  version : 0.3.0
+
+  BASE_PATH : https://benjaminhmtan.github.io/homepage
+
+  # ASSET_PATH: 
+
+  archive_path: nil
+  categories_path : nil
+  tags_path : nil
+  atom_path : nil
+  rss_path : nil
+
+  comments :
+    provider : false
+
+  analytics :
+    provider : false
+
+  sharing :
+    provider : false
